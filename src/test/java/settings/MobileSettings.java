@@ -39,8 +39,8 @@ public class MobileSettings implements ITestListener {
     protected HelpLogInPage objHelp;
 
     @BeforeMethod(alwaysRun = true)
-    @Parameters({"udid", "url", "port", "version"})
-    public void setUp(final String udid, final String url, final Integer port, final String version) throws InterruptedException {
+    @Parameters({"udid", "port", "version"})
+    public void setUp(final String udid, final Integer port, final String version) throws InterruptedException {
 
         String PACKAGE = "com.instagram.android";
         String ACTIVITY = "com.instagram.mainactivity.MainActivity";

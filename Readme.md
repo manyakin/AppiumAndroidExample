@@ -7,7 +7,7 @@
 * Install [Appium](https://github.com/appium/appium/)
 * Install [Android SDK](https://developer.android.com/studio/)
 
-* Launch two android emulator
+* Launch two android emulator(Not Android 9)
 * Launch Appium instance
 
 #### 2. Run tests

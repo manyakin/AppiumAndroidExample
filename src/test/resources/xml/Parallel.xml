@@ -7,7 +7,6 @@
         <parameter name="version" value="8"/>
         <parameter name="port" value="8200"/>
         <parameter name="udid" value="emulator-5554"/>
-        <parameter name="url" value="http://localhost:15280/wd/hub"/>
         <classes>
             <class name="cases.LogIn"/>
             <class name="cases.Other"/>
@@ -18,7 +17,6 @@
         <parameter name="version" value="8"/>
         <parameter name="port" value="8201"/>
         <parameter name="udid" value="emulator-5556"/>
-        <parameter name="url" value="http://localhost:15279/wd/hub"/>
         <classes>
             <class name="cases.SignIn"/>
         </classes>
