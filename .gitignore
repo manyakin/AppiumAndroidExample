@@ -1,0 +1,10 @@
+.allure/
+.git/
+.gradle/
+.idea/
+.build/
+.allure-results/
+allure-results/
+.out/
+DS_Store
+.DS_Store

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environment>
+    <parameter>
+        <key>Driver</key>
+        <value>Android Driver</value>
+    </parameter>
+    <parameter>
+        <key>Device Count</key>
+        <value>2</value>
+    </parameter>
+    <parameter>
+        <key>Сollector</key>
+        <value>Gradle</value>
+    </parameter>
+</environment>
