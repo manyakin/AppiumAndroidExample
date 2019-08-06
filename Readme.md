@@ -5,10 +5,10 @@
 
 #### 1. Preparation for launch
 ```
-* Install [Appium](https://github.com/appium/appium)
-* Install [Android SDK](https://developer.android.com/studio)
+* Install [Appium](https://github.com/appium/appium/)
+* Install [Android SDK](https://developer.android.com/studio/)
 
-* Launch two emulator
+* Launch two android emulator
 * Launch Appium instance
 ```
 
