@@ -18,3 +18,5 @@
 ```
 ./gradlew allureReport
 ```
+
+###### The application is used solely for the purpose of launching and displaying the work of tests
